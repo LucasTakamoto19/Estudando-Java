@@ -1,3 +1,5 @@
+package aula_310723;
+
 enum NivelAcesso{
     COMUM, USUARIO, ADMINISTRADOR
 }
