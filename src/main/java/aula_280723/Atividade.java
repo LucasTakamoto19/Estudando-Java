@@ -1,3 +1,5 @@
+package aula_280723;
+
 import java.util.Scanner;
 
 public class Atividade {
