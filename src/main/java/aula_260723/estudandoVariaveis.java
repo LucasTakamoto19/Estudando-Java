@@ -1,3 +1,5 @@
+package aula_260723;
+
 public class estudandoVariaveis {
 
     public static void main(String[] args) {
