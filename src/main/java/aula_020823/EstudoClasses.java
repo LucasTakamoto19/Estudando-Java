@@ -2,8 +2,7 @@ package aula_020823;
 
 public class EstudoClasses {
     public static void main(String[] args) {
-        Fruta maca = new Fruta();
-
+        Fruta maca = new Fruta(); // criar/instancia um objeto
         maca.nome = "Maçã";
         maca.cor = "Vermelha";
         maca.acidez = 7;
